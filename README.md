@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ijeoma
+# 👋 Hi, I'm Ijeoma Annie
 
 ### 📊 Data Analyst • 💻 Software Developer • 🌍 Open-Source Contributor
 
