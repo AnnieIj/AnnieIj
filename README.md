@@ -1,132 +1,142 @@
 # 👋 Hi, I'm Ijeoma Annie
 
-### Software Developer • Data Analyst • Open-Source Contributor
+### 📊 Data Analyst • 💻 Software Developer • 🌍 Open-Source Contributor
 
-I build practical, data-driven software across **full-stack development, blockchain infrastructure, analytics, and developer tooling**.
+I work at the intersection of **data, software development, and open-source technology**.
 
-My work includes applications built with **TypeScript, React, Next.js, Node.js, PostgreSQL, Rust, Stellar/Soroban, and Solana/SVM**, with a growing focus on building reliable open-source systems.
+My background in **Statistics and Data Analysis** shapes how I approach problems — from working with datasets and statistical methods to building applications, dashboards, databases, and analytical tools.
 
-I enjoy taking ideas beyond prototypes — strengthening architecture, testing, CI/CD, APIs, data models, documentation, and production readiness.
+Alongside data analysis, I build full-stack applications and contribute to open-source projects using technologies such as **SQL, Excel, JavaScript, TypeScript, React, Next.js, Node.js, PostgreSQL, Python, Rust, and blockchain technologies**.
 
----
-
-## 🚀 What I Do
-
-- 💻 Build full-stack web applications
-- 📊 Develop data and analytics solutions
-- ⛓️ Build blockchain and Web3 applications
-- 🦀 Develop and explore Rust & Soroban smart contracts
-- 🌍 Contribute to open-source projects
-- 🧪 Work with testing, CI/CD and application reliability
-- 🗄️ Design and work with relational databases and APIs
+I am particularly interested in turning **data and real-world problems into useful digital solutions**.
 
 ---
 
-## 🛠️ Tech Stack
+## 📊 Data Analysis
 
-### Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript)
-![Rust](https://img.shields.io/badge/Rust-000?style=for-the-badge&logo=rust)
-![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
+My data analysis work and academic background cover areas such as:
+
+- Data cleaning and preparation
+- Exploratory Data Analysis (EDA)
+- Descriptive and inferential statistics
+- Regression analysis
+- Statistical modelling
+- Data visualization
+- SQL querying and database analysis
+- Spreadsheet analysis with Microsoft Excel
+- Interpretation and presentation of analytical results
+
+### Data Tools
+
+![Excel](https://img.shields.io/badge/Microsoft_Excel-000?style=for-the-badge&logo=microsoftexcel)
 ![SQL](https://img.shields.io/badge/SQL-000?style=for-the-badge&logo=postgresql)
-
-### Frontend
-![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs)
-![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-000?style=for-the-badge&logo=tailwindcss)
-
-### Backend & Data
-![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=nodedotjs)
-![Express](https://img.shields.io/badge/Express-000?style=for-the-badge&logo=express)
+![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql)
-![Prisma](https://img.shields.io/badge/Prisma-000?style=for-the-badge&logo=prisma)
 
-### Blockchain
-![Stellar](https://img.shields.io/badge/Stellar-000?style=for-the-badge&logo=stellar)
-![Rust](https://img.shields.io/badge/Soroban-000?style=for-the-badge&logo=rust)
-![Solana](https://img.shields.io/badge/Solana-000?style=for-the-badge&logo=solana)
+---
 
-### DevOps & Tools
-![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)
-![Docker](https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-000?style=for-the-badge&logo=githubactions)
-![Vite](https://img.shields.io/badge/Vite-000?style=for-the-badge&logo=vite)
+## 💻 Software Development
+
+I build responsive and data-driven applications, working across frontend,
+backend, APIs, databases, testing, and deployment.
+
+**Frontend:** React • Next.js • TypeScript • JavaScript • HTML • CSS • Tailwind CSS
+
+**Backend & Database:** Node.js • Express • PostgreSQL • Prisma • REST APIs
+
+**Development Tools:** Git • GitHub • Docker • GitHub Actions • Vite
+
+---
+
+## ⛓️ Blockchain & Open Source
+
+I also work with blockchain technologies and open-source software,
+particularly around:
+
+- Stellar ecosystem development
+- Soroban and Rust
+- Solana/SVM applications
+- Wallet integrations
+- Blockchain data and analytics
+- Testing and CI/CD
+- Open-source collaboration
 
 ---
 
 ## 🌟 Featured Projects
 
 ### 🔗 CreditBridge
-
 **Institutional Invoice Financing on Stellar**
 
-An open-source invoice-financing platform combining an investor marketplace, accounting ledger, Stellar network integration, non-custodial transaction signing, and repayment settlement workflows.
+An open-source invoice-financing platform combining an investor marketplace,
+accounting ledger, Stellar network integration, non-custodial transaction
+signing, and repayment settlement workflows.
 
 **Focus:** Stellar • TypeScript • React • Financial Infrastructure • Testing • CI/CD
 
 ---
 
 ### 📊 Nolyvatix
-
 **Stellar Business Intelligence & Network Analytics**
 
-A data-focused platform for exploring Stellar network activity, asset and DEX liquidity, Soroban application performance, payment corridors, alerts, reports, and AI-assisted insights.
+A data-focused platform for exploring Stellar network activity, asset and
+DEX liquidity, Soroban application performance, payment corridors, alerts,
+reports, and AI-assisted insights.
 
-**Focus:** React • TypeScript • PostgreSQL • Stellar • Analytics • APIs
+**Focus:** Data Analytics • React • TypeScript • PostgreSQL • Stellar • APIs
 
 ---
 
 ### 📱 MobileSQL
-
 **Interactive SQL Learning Platform**
 
-A full-stack platform designed around practical SQL learning, including challenges, datasets, a playground, analytics, portfolio functionality, and structured learning experiences.
+A full-stack SQL learning platform with challenges, datasets, an SQL
+playground, analytics, portfolio functionality, and structured learning
+experiences.
 
-**Focus:** TypeScript • SQL • Prisma • Testing • Docker • CI/CD
-
----
-
-### 🧬 ModelProof
-
-**Open-Source Provenance Infrastructure**
-
-A Rust/Soroban initiative exploring verifiable relationships between digital artifacts, attestations, provenance records, lifecycle states, and on-chain registry infrastructure.
-
-**Focus:** Rust • Soroban • Smart Contracts • Testing • Open Source
+**Focus:** SQL • Data • TypeScript • Prisma • Testing • Docker • CI/CD
 
 ---
 
-### 🍪 CrumbTrail
+### 🏨 Indian Atlantic Hotel
+**Modern Hotel Web Experience**
 
-**Wallet Activity Intelligence for SVM Networks**
+A responsive hotel website designed to provide a clean and accessible
+digital experience for presenting accommodation, hospitality services,
+and guest information.
 
-A wallet intelligence project designed to transform on-chain transaction history into understandable activity journeys, insights, confirmation metrics, and wallet-level analytics.
-
-**Focus:** Next.js • TypeScript • Solana/SVM • Wallet Integration • Analytics
+**Focus:** Web Development • Responsive Design • UI/UX • Frontend Development
 
 ---
 
-## 🌍 Open Source
+### 👰 BEAJAY COUTURE BRIDAL
+**Bridal Couture Digital Experience**
 
-Open source is an important part of how I learn and build.
+A premium digital experience for a Nigerian bridal couture brand serving
+brides locally and internationally, featuring collections, bespoke services,
+rentals, editorial galleries, appointment experiences, and an
+international-facing brand presence.
 
-My contribution work includes:
+**Focus:** React • TypeScript • Responsive Design • UI/UX • Digital Experience
 
-- Bug fixes and application reliability
+---
+
+## 🌍 Open-Source Contributions
+
+I contribute to open-source projects across areas including:
+
 - Frontend and backend development
-- API integrations
-- Database and schema improvements
+- API integration
+- Database improvements
+- Bug fixes
 - Automated testing
-- CI/CD workflows
+- CI/CD
 - Documentation
 - Blockchain integrations
-- Developer experience improvements
+- Application reliability
 
-I also maintain and develop open-source projects while continuing to contribute to projects maintained by other developers and communities.
+I also maintain and develop open-source projects while contributing to
+projects maintained by other developers and communities.
 
 ---
 
@@ -139,28 +149,27 @@ I also maintain and develop open-source projects while continuing to contribute 
 
 ---
 
-## 🎯 Currently Exploring
+## 🎯 Current Focus
 
-```text
-🦀 Rust & Soroban
-⛓️ Blockchain Infrastructure
-📊 Data Analytics
-🏗️ Backend Architecture
-🧪 Testing & Reliability
-🌍 Open-Source Engineering
-```
+📊 Data Analysis & Statistical Methods  
+💻 Full-Stack Development  
+🗄️ SQL & Database Systems  
+⛓️ Blockchain & On-Chain Data  
+🦀 Rust & Soroban  
+🌍 Open-Source Contribution
 
 ---
 
 ## 🤝 Let's Connect
 
-I'm interested in **open-source collaboration, software development, data-driven products, blockchain infrastructure, and opportunities to build useful technology.**
+I'm interested in opportunities and collaborations involving
+**Data Analysis, Software Development, Open Source, and Data-Driven Products.**
 
 📍 Nigeria  
-💻 GitHub: @AnnieIj
+💻 GitHub: **@AnnieIj**
 
 ---
 
 <p align="center">
-  <b>Building. Learning. Contributing.</b>
+  <b>Turning data, ideas, and real-world problems into useful solutions.</b>
 </p>
